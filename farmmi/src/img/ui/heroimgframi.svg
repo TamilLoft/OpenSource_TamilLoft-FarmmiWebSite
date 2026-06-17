@@ -1,0 +1,130 @@
+<svg
+  width="550"
+  height="400"
+  viewBox="0 0 550 400"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  class="img-fluid"
+>
+  <!-- Background -->
+  <rect width="550" height="400" rx="12" fill="#F0F9F0" />
+
+  <!-- Device frame -->
+  <rect
+    x="25"
+    y="25"
+    width="500"
+    height="350"
+    rx="8"
+    fill="white"
+    stroke="#C5E8C6"
+    stroke-width="2"
+  />
+
+  <!-- Header bar -->
+  <rect x="35" y="35" width="480" height="50" rx="4" fill="#E8F5E9" />
+  <rect
+    x="50"
+    y="50"
+    width="120"
+    height="20"
+    rx="4"
+    fill="#2E7D32"
+    opacity="0.8"
+  />
+  <circle cx="450" cy="60" r="8" fill="#66BB6A" />
+  <circle cx="480" cy="60" r="8" fill="#66BB6A" />
+  <circle cx="510" cy="60" r="8" fill="#66BB6A" />
+
+  <!-- Dashboard content -->
+  <!-- Weather card -->
+  <rect
+    x="50"
+    y="100"
+    width="150"
+    height="120"
+    rx="8"
+    fill="#FFFFFF"
+    stroke="#C5E8C6"
+    stroke-width="1"
+  />
+  <circle cx="125" cy="140" r="25" fill="#FFD54F" />
+  <path
+    d="M125 115L125 140M125 140L110 155M125 140L140 155"
+    stroke="#FFB300"
+    stroke-width="2"
+  />
+  <rect x="90" y="180" width="70" height="10" rx="4" fill="#C5E8C6" />
+  <rect x="90" y="195" width="50" height="10" rx="4" fill="#C5E8C6" />
+
+  <!-- Market prices card -->
+  <rect
+    x="225"
+    y="100"
+    width="150"
+    height="120"
+    rx="8"
+    fill="#FFFFFF"
+    stroke="#C5E8C6"
+    stroke-width="1"
+  />
+  <rect x="240" y="120" width="120" height="5" rx="2" fill="#66BB6A" />
+  <rect x="240" y="135" width="100" height="5" rx="2" fill="#66BB6A" />
+  <rect x="240" y="150" width="80" height="5" rx="2" fill="#66BB6A" />
+  <rect x="240" y="165" width="110" height="5" rx="2" fill="#66BB6A" />
+  <rect x="240" y="180" width="90" height="5" rx="2" fill="#66BB6A" />
+  <rect x="240" y="195" width="70" height="5" rx="2" fill="#66BB6A" />
+
+  <!-- Crop health card -->
+  <rect
+    x="400"
+    y="100"
+    width="150"
+    height="120"
+    rx="8"
+    fill="#FFFFFF"
+    stroke="#C5E8C6"
+    stroke-width="1"
+  />
+  <circle cx="440" cy="150" r="25" fill="#66BB6A" opacity="0.8" />
+  <circle cx="490" cy="150" r="25" fill="#FFD54F" opacity="0.8" />
+  <circle cx="475" cy="130" r="15" fill="#EF5350" opacity="0.8" />
+
+  <!-- Main chart -->
+  <rect
+    x="50"
+    y="240"
+    width="450"
+    height="120"
+    rx="8"
+    fill="#FFFFFF"
+    stroke="#C5E8C6"
+    stroke-width="1"
+  />
+  <!-- Chart line -->
+  <path
+    d="M80 320C130 280 180 340 230 300C280 260 330 320 380 280C430 240 480 300 520 260"
+    stroke="#2E7D32"
+    stroke-width="3"
+    fill="none"
+  />
+  <!-- Chart points -->
+  <circle cx="80" cy="320" r="4" fill="#2E7D32" />
+  <circle cx="130" cy="280" r="4" fill="#2E7D32" />
+  <circle cx="180" cy="340" r="4" fill="#2E7D32" />
+  <circle cx="230" cy="300" r="4" fill="#2E7D32" />
+  <circle cx="280" cy="260" r="4" fill="#2E7D32" />
+  <circle cx="330" cy="320" r="4" fill="#2E7D32" />
+  <circle cx="380" cy="280" r="4" fill="#2E7D32" />
+  <circle cx="430" cy="240" r="4" fill="#2E7D32" />
+  <circle cx="480" cy="300" r="4" fill="#2E7D32" />
+  <circle cx="520" cy="260" r="4" fill="#2E7D32" />
+
+  <!-- Navigation -->
+  <rect x="50" y="380" width="450" height="40" rx="8" fill="#E8F5E9" />
+  <circle cx="100" cy="400" r="12" fill="#2E7D32" />
+  <circle cx="200" cy="400" r="12" fill="#C5E8C6" />
+  <circle cx="300" cy="400" r="12" fill="#C5E8C6" />
+  <circle cx="400" cy="400" r="12" fill="#C5E8C6" />
+  <circle cx="500" cy="400" r="12" fill="#C5E8C6" />
+</svg>
