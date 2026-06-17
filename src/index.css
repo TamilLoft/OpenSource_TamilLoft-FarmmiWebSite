@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-light-green: #f0f9f0;
+  --color-primary-green: #c5e8c6;
+  --color-accent-green: #66bb6a;
+  --color-dark-green: #2e7d32;
+  --color-deep-green: #1b5e20;
+  --font-sans: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Poppins", ui-sans-serif, system-ui, sans-serif;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
